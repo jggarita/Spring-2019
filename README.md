@@ -1,8 +1,8 @@
 # Spring-2019
-Stuff 
+
+This repository contains files for my research project
 
 ## Just learning this stuff
 
-Hello: THis are a lot of changes. I just checkign everything
-
+I'm new to Github, but things seem to be working fine!
 
