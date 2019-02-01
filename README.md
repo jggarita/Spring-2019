@@ -3,5 +3,4 @@ Stuff
 
 ## Just learning this stuff
 
--Duh
-Doing some changes here
+Here I made some changes
