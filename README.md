@@ -1,8 +1,8 @@
 # Spring-2019
 
-This repository contains files for my research project
+This repository contains files to understand R and learn Machine Learning
 
-## Just learning this stuff
+## Graphs
 
-I'm new to Github, but things seem to be working fine!
+Check https://github.com/jgscott/ECO395M
 
