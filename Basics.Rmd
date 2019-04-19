@@ -1,0 +1,26 @@
+---
+title: "Basic Statistic Learning"
+author: "Jonathan Garita"
+date: "4/15/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#install.packages("tidyverse")
+```
+
+## Basic Statistic Learning
+
+Data on electric demand in Houston. Plot shows data pattern
+
+```{r}
+loadhou = read.csv('/Users/jggarita/Spring-2019/ECO395M/data/loadhou.csv')
+summary(loadhou)
+
+# plot the data
+ggplot(data = loadhou) + 
+  geom_point(mapping = aes(x = KHOU, y = COAST), color='darkgrey') + 
+  ylim(7000, 20000)
+```
+
