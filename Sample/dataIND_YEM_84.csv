@@ -1,0 +1,822 @@
+Importer,Year,Value,Ad val. duties,Number of lines,India
+,(US$),Simple average,MFN duties,Pref. duties,India
+,MFN,Best,All items,Non ad val.,All items,Non ad val.,India
+Yemen,0,,,,,,,India
+,2016,,5.07,5.07,286,,,,India
+850110 -Motors of an output not exceeding 37.5 W,,5.00,5.00,1,,,,India
+850120 - Universal AC/DC motors of an output exceeding 37.5 W,,5.00,5.00,1,,,,India
+850131 -- Of an output not exceeding 750 W,,5.00,5.00,1,,,,India
+850132 -- Of an output exceeding 750 W but not exceeding 75 kW,,5.00,5.00,1,,,,India
+850133 -- Of an output exceeding 75 kW but not exceeding 375 kW,,5.00,5.00,1,,,,India
+850134 -- Of an output exceeding 375 kW,,5.00,5.00,2,,,,India
+"850140 - Other AC motors, single-phase",,5.00,5.00,1,,,,India
+850151 -- Of an output not exceeding 750 W,,5.00,5.00,1,,,,India
+850152 -- Of an output exceeding 750 W but not exceeding 75 kW,,5.00,5.00,1,,,,India
+850153 -- Of an output exceeding 75 kW,,5.00,5.00,2,,,,India
+850161 -- Of an output not exceeding 75 kVA,,5.00,5.00,1,,,,India
+850162 -- Of an output exceeding 75 kVA but not exceeding 375 kVA,,5.00,5.00,1,,,,India
+850163 -- Of an output exceeding 375 kVA but not exceeding 750 kVA,,5.00,5.00,1,,,,India
+850164 -- Of an output exceeding 750 kVA,,5.00,5.00,1,,,,India
+850211 -- Of an output not exceeding 75 kVA,,5.00,5.00,1,,,,India
+850212 -- Of an output exceeding 75 kVA but not exceeding 375 kVA,,5.00,5.00,1,,,,India
+850213 -- Of an output exceeding 375 kVA,,5.00,5.00,2,,,,India
+850220 - Generating sets with spark-ignition internal combustion piston engines,,5.00,5.00,2,,,,India
+850231 -- Wind-powered,,5.00,5.00,2,,,,India
+850239 -- Other,,5.00,5.00,2,,,,India
+850240 - Electric rotary converters,,5.00,5.00,1,,,,India
+850300 Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02.,,5.00,5.00,2,,,,India
+850410 - Ballasts for discharge lamps or tubes,,5.00,5.00,1,,,,India
+850421 -- Having a power handling capacity not exceeding 650 kVA,,5.00,5.00,1,,,,India
+"850422 -- Having a power handling capacity exceeding 650 kVA but not exceeding 10,000 kVA",,5.00,5.00,2,,,,India
+"850423 -- Having a power handling capacity exceeding 10,000 kVA",,5.00,5.00,1,,,,India
+850431 -- Having a power handling capacity not exceeding 1 kVA,,5.00,5.00,1,,,,India
+850432 -- Having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA,,5.00,5.00,1,,,,India
+850433 -- Having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA,,5.00,5.00,1,,,,India
+850434 -- Having a power handling capacity exceeding 500 kVA,,5.00,5.00,2,,,,India
+850440 - Static converters,,5.00,5.00,1,,,,India
+850450 - Other inductors,,5.00,5.00,1,,,,India
+850490 - Parts,,5.00,5.00,2,,,,India
+850511 -- Of metal,,5.00,5.00,1,,,,India
+850519 -- Other,,5.00,5.00,1,,,,India
+"850520 - Electro-magnetic couplings, clutches and brakes",,5.00,5.00,1,,,,India
+"850590 - Other, including parts",,5.00,5.00,1,,,,India
+850610 -Manganese dioxide,,5.00,5.00,1,,,,India
+850630 -Mercuric oxide,,5.00,5.00,1,,,,India
+850640 - Silver oxide,,5.00,5.00,1,,,,India
+850650 - Lithium,,5.00,5.00,1,,,,India
+850660 - Air-zinc,,5.00,5.00,1,,,,India
+850680 - Other primary cells and primary batteries,,5.00,5.00,1,,,,India
+850690 - Parts,,5.00,5.00,1,,,,India
+"850710 - Lead-acid, of a kind used for starting piston engines",,10.00,10.00,1,,,,India
+850720 - Other lead-acid accumulators,,10.00,10.00,1,,,,India
+850730 - Nickel-cadmium,,10.00,10.00,1,,,,India
+850740 - Nickel-iron,,10.00,10.00,1,,,,India
+850750 - Nickel-metal hydride,,10.00,10.00,1,,,,India
+850760 - Lithium-ion,,10.00,10.00,1,,,,India
+850780 - Other accumulators,,10.00,10.00,1,,,,India
+850790 - Parts,,5.00,5.00,1,,,,India
+"850811 -- Of a power not exceeding 1,500 W and having a dust bag or other receptacle capacity not exceeding 20 l",,5.00,5.00,1,,,,India
+850819 -- Other,,5.00,5.00,1,,,,India
+850860 - Other vacuum cleaners,,5.00,5.00,1,,,,India
+850870 - Parts,,5.00,5.00,1,,,,India
+850940 - Food grinders and mixers; fruit or vegetable juice extractors,,5.00,5.00,1,,,,India
+850980 - Other appliances,,5.00,5.00,1,,,,India
+850990 - Parts,,5.00,5.00,1,,,,India
+851010 - Shavers,,5.00,5.00,1,,,,India
+851020 - Hair clippers,,5.00,5.00,1,,,,India
+851030 - Hair-removing appliances,,5.00,5.00,1,,,,India
+851090 - Parts,,5.00,5.00,1,,,,India
+851110 - Sparking plugs,,5.00,5.00,1,,,,India
+851120 - Ignition magnetos; magneto-dynamos; magnetic flywheels,,5.00,5.00,1,,,,India
+851130 - Distributors; ignition coils,,5.00,5.00,1,,,,India
+851140 - Starter motors and dual purpose starter-generators,,5.00,5.00,1,,,,India
+851150 - Other generators,,5.00,5.00,1,,,,India
+851180 - Other equipment,,5.00,5.00,1,,,,India
+851190 - Parts,,5.00,5.00,1,,,,India
+851210 - Lighting or visual signalling equipment of a kind used on bicycles,,5.00,5.00,1,,,,India
+851220 - Other lighting or visual signalling equipment,,5.00,5.00,1,,,,India
+851230 - Sound signalling equipment,,5.00,5.00,1,,,,India
+"851240 -Windscreen wipers, defrosters and demisters",,5.00,5.00,1,,,,India
+851290 - Parts,,5.00,5.00,1,,,,India
+851310 - Lamps,,5.00,5.00,1,,,,India
+851390 - Parts,,5.00,5.00,1,,,,India
+851410 - Resistance heated furnaces and ovens,,5.00,5.00,1,,,,India
+851420 - Furnaces and ovens functioning by induction or dielectric loss,,5.00,5.00,1,,,,India
+851430 - Other furnaces and ovens,,5.00,5.00,1,,,,India
+851440 - Other equipment for the heat treatment of materials by induction or dielectric loss,,5.00,5.00,1,,,,India
+851490 - Parts,,5.00,5.00,1,,,,India
+851511 -- Soldering irons and guns,,5.00,5.00,1,,,,India
+851519 -- Other,,5.00,5.00,1,,,,India
+851521 -- Fully or partly automatic,,5.00,5.00,1,,,,India
+851529 -- Other,,5.00,5.00,1,,,,India
+851531 -- Fully or partly automatic,,5.00,5.00,1,,,,India
+851539 -- Other,,5.00,5.00,1,,,,India
+851580 - Other machines and apparatus,,5.00,5.00,3,,,,India
+851590 - Parts,,5.00,5.00,3,,,,India
+851610 - Electric instantaneous or storage water heaters and immersion heaters,,5.00,5.00,1,,,,India
+851621 -- Storage heating radiators,,5.00,5.00,1,,,,India
+851629 -- Other,,5.00,5.00,1,,,,India
+851631 -- Hair dryers,,5.00,5.00,1,,,,India
+851632 -- Other hair-dressing apparatus,,5.00,5.00,1,,,,India
+851633 -- Hand-drying apparatus,,5.00,5.00,1,,,,India
+851640 - Electric smoothing irons,,5.00,5.00,1,,,,India
+851650 -Microwave ovens,,5.00,5.00,1,,,,India
+"851660 - Other ovens; cookers, cooking plates, boiling rings, grillers and roasters",,5.00,5.00,1,,,,India
+851671 -- Coffee or tea makers,,5.00,5.00,1,,,,India
+851672 -- Toasters,,5.00,5.00,1,,,,India
+851679 -- Other,,5.00,5.00,1,,,,India
+851680 - Electric heating resistors,,5.00,5.00,1,,,,India
+851690 - Parts,,5.00,5.00,1,,,,India
+851711 -- Line telephone sets with cordless handsets,,5.00,5.00,1,,,,India
+851712 -- Telephones for cellular networks or for other wireless networks,,5.00,5.00,1,,,,India
+851718 -- Other,,5.00,5.00,1,,,,India
+851761 -- Base stations,,5.00,5.00,1,,,,India
+"851762 -- Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus",,5.00,5.00,1,,,,India
+851769 -- Other,,5.00,5.00,1,,,,India
+851770 - Parts,,5.00,5.00,1,,,,India
+851810 -Microphones and stands therefor,,5.00,5.00,1,,,,India
+"851821 -- Single loudspeakers, mounted in their enclosures",,5.00,5.00,1,,,,India
+"851822 -- Multiple loudspeakers, mounted in the same enclosure",,5.00,5.00,1,,,,India
+851829 -- Other,,5.00,5.00,1,,,,India
+"851830 - Headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers",,5.00,5.00,1,,,,India
+851840 - Audio-frequency electric amplifiers,,5.00,5.00,1,,,,India
+851850 - Electric sound amplifier sets,,5.00,5.00,1,,,,India
+851890 - Parts,,5.00,5.00,2,,,,India
+"851920 - Apparatus operated by coins, banknotes, bank cards, tokens or by other means of payment",,5.00,5.00,1,,,,India
+851930 -Turntables (record-decks),,5.00,5.00,1,,,,India
+851950 -Telephone answering machines,,5.00,5.00,1,,,,India
+"851981 -- Using magnetic, optical or semiconductor media",,5.00,5.00,1,,,,India
+851989 -- Other,,5.00,5.00,1,,,,India
+852110 -Magnetic tape-type,,5.00,5.00,1,,,,India
+852190 - Other,,5.00,5.00,1,,,,India
+852210 - Pick-up cartridges,,5.00,5.00,1,,,,India
+852290 - Other,,5.00,5.00,2,,,,India
+852321 -- Cards incorporating a magnetic stripe,,5.00,5.00,1,,,,India
+852329 -- Other,,5.00,5.00,1,,,,India
+852341 -- Unrecorded,,5.00,5.00,1,,,,India
+852349 -- Other,,5.00,5.00,1,,,,India
+852351 -- Solid-state non-volatile storage devices,,5.00,5.00,1,,,,India
+852352 -- «Smart cards»,,5.00,5.00,1,,,,India
+852359 -- Other,,5.00,5.00,1,,,,India
+852380 - Other,,5.00,5.00,1,,,,India
+852550 -Transmission apparatus,,5.00,5.00,1,,,,India
+852560 -Transmission apparatus incorporating reception apparatus,,5.00,5.00,1,,,,India
+"852580 -Television cameras, digital cameras and video camera recorders",,5.00,5.00,1,,,,India
+852610 - Radar apparatus,,5.00,5.00,1,,,,India
+852691 -- Radio navigational aid apparatus,,5.00,5.00,1,,,,India
+852692 -- Radio remote control apparatus,,5.00,5.00,1,,,,India
+852712 -- Pocket-size radio cassette-players,,5.00,5.00,1,,,,India
+852713 -- Other apparatus combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852719 -- Other,,5.00,5.00,1,,,,India
+852721 -- Combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852729 -- Other,,5.00,5.00,1,,,,India
+852791 -- Combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852792 -- Not combined with sound recording or reproducing apparatus but combined with a clock,,5.00,5.00,1,,,,India
+852799 -- Other,,5.00,5.00,1,,,,India
+852841 -- Of a kind solely or principally used in an automatic data processing system of heading 84.71,,0.00,0.00,1,,,,India
+852849 -- Other,,5.00,5.00,1,,,,India
+852851 -- Of a kind solely or principally used in an automatic data processing system of heading 84.71,,0.00,0.00,1,,,,India
+852859 -- Other,,5.00,5.00,1,,,,India
+852861 -- Of a kind solely or principally used in an automatic data processing system of heading 84.71,,0.00,0.00,1,,,,India
+852869 -- Other,,5.00,5.00,1,,,,India
+852871 -- Not designed to incorporate a video display or screen,,5.00,5.00,1,,,,India
+"852872 -- Other, colour",,5.00,5.00,1,,,,India
+"852873 -- Other, monochrome",,5.00,5.00,1,,,,India
+852910 - Aerials and aerial reflectors of all kinds; parts suitable for use therewith,,5.00,5.00,1,,,,India
+852990 - Other,,2.50,2.50,2,,,,India
+853010 - Equipment for railways or tramways,,5.00,5.00,1,,,,India
+853080 - Other equipment,,5.00,5.00,1,,,,India
+853090 - Parts,,5.00,5.00,1,,,,India
+853110 - Burglar or fire alarms and similar apparatus,,5.00,5.00,1,,,,India
+853120 - Indicator panels incorporating liquid crystal devices (LCD) or light emitting diodes (LED),,5.00,5.00,1,,,,India
+853180 - Other apparatus,,5.00,5.00,1,,,,India
+853190 - Parts,,5.00,5.00,1,,,,India
+853210 - Fixed capacitors designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors),,5.00,5.00,1,,,,India
+853221 -- Tantalum,,5.00,5.00,1,,,,India
+853222 -- Aluminium electrolytic,,5.00,5.00,1,,,,India
+"853223 -- Ceramic dielectric, single layer",,5.00,5.00,1,,,,India
+"853224 -- Ceramic dielectric, multilayer",,5.00,5.00,1,,,,India
+853225 -- Dielectric of paper or plastics,,5.00,5.00,1,,,,India
+853229 -- Other,,5.00,5.00,1,,,,India
+853230 -Variable or adjustable (pre-set) capacitors,,5.00,5.00,1,,,,India
+853290 - Parts,,5.00,5.00,1,,,,India
+"853310 - Fixed carbon resistors, composition or film types",,5.00,5.00,1,,,,India
+853321 -- For a power handling capacity not exceeding 20 W,,5.00,5.00,1,,,,India
+853329 -- Other,,5.00,5.00,1,,,,India
+853331 -- For a power handling capacity not exceeding 20 W,,5.00,5.00,1,,,,India
+853339 -- Other,,5.00,5.00,1,,,,India
+"853340 - Other variable resistors, including rheostats and potentiometers",,5.00,5.00,1,,,,India
+853390 - Parts,,5.00,5.00,1,,,,India
+853400 Printed circuits.,,5.00,5.00,1,,,,India
+853510 - Fuses,,5.00,5.00,1,,,,India
+853521 -- For a voltage of less than 72.5 kV,,5.00,5.00,1,,,,India
+853529 -- Other,,5.00,5.00,1,,,,India
+853530 - Isolating switches and make-and-break switches,,5.00,5.00,1,,,,India
+"853540 - Lightning arresters, voltage limiters and surge suppressors",,5.00,5.00,1,,,,India
+853590 - Other,,5.00,5.00,1,,,,India
+853610 - Fuses,,5.00,5.00,1,,,,India
+853620 - Automatic circuit breakers,,5.00,5.00,1,,,,India
+853630 - Other apparatus for protecting electrical circuits,,5.00,5.00,1,,,,India
+853641 -- For a voltage not exceeding 60 V,,5.00,5.00,1,,,,India
+853649 -- Other,,5.00,5.00,1,,,,India
+853650 - Other switches,,5.00,5.00,1,,,,India
+853661 -- Lamp-holders,,5.00,5.00,1,,,,India
+853669 -- Other,,5.00,5.00,1,,,,India
+"853670 - Connectors for optical fibres, optical fibre bundles or cables",,7.50,7.50,2,,,,India
+853690 - Other apparatus,,5.00,5.00,1,,,,India
+"853710 - For a voltage not exceeding 1,000 V",,5.00,5.00,1,,,,India
+"853720 - For a voltage exceeding 1,000 V",,5.00,5.00,1,,,,India
+"853810 - Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 85.37, not equipped with their apparatus",,5.00,5.00,1,,,,India
+853890 - Other,,5.00,5.00,1,,,,India
+853910 - Sealed beam lamp units,,5.00,5.00,1,,,,India
+853921 -- Tungsten halogen,,5.00,5.00,1,,,,India
+"853922 -- Other, of a power not exceeding 200 W and for a voltage exceeding 100 V",,5.00,5.00,1,,,,India
+853929 -- Other,,5.00,5.00,1,,,,India
+"853931 -- Fluorescent, hot cathode",,5.00,5.00,1,,,,India
+853932 -- Mercury or sodium vapour lamps; metal halide lamps,,5.00,5.00,1,,,,India
+853939 -- Other,,5.00,5.00,1,,,,India
+853941 -- Arc-lamps,,5.00,5.00,1,,,,India
+853949 -- Other,,5.00,5.00,1,,,,India
+853990 - Parts,,5.00,5.00,2,,,,India
+854011 -- Colour,,5.00,5.00,1,,,,India
+854012 -- Monochrome,,5.00,5.00,1,,,,India
+854020 -Television camera tubes; image converters and intensifiers; other photo-cathode tubes,,5.00,5.00,1,,,,India
+"854040 - Data/graphic display tubes, monochrome; data/graphic display tubes, colour, with a phosphor dot screen pitch smaller than 0.4 mm",,5.00,5.00,1,,,,India
+854060 - Other cathode-ray tubes,,5.00,5.00,1,,,,India
+854071 -- Magnetrons,,5.00,5.00,1,,,,India
+854079 -- Other,,5.00,5.00,1,,,,India
+854081 -- Receiver or amplifier valves and tubes,,5.00,5.00,1,,,,India
+854089 -- Other,,5.00,5.00,1,,,,India
+854091 -- Of cathode-ray tubes,,5.00,5.00,1,,,,India
+854099 -- Other,,5.00,5.00,1,,,,India
+"854110 - Diodes, other than photosensitive or light emitting diodes",,5.00,5.00,1,,,,India
+854121 -- With a dissipation rate of less than 1 W,,5.00,5.00,1,,,,India
+854129 -- Other,,5.00,5.00,1,,,,India
+"854130 -Thyristors, diacs and triacs, other than photosensitive devices",,5.00,5.00,1,,,,India
+"854140 - Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes",,5.00,5.00,2,,,,India
+854150 - Other semiconductor devices,,5.00,5.00,1,,,,India
+854160 -Mounted piezo-electric crystals,,5.00,5.00,1,,,,India
+854190 - Parts,,5.00,5.00,1,,,,India
+"854231 -- Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",,5.00,5.00,1,,,,India
+854232 -- Memories,,5.00,5.00,1,,,,India
+854233 -- Amplifiers,,5.00,5.00,1,,,,India
+854239 -- Other,,5.00,5.00,1,,,,India
+854290 - Parts,,5.00,5.00,1,,,,India
+854310 - Particle accelerators,,5.00,5.00,1,,,,India
+854320 - Signal generators,,5.00,5.00,1,,,,India
+"854330 -Machines and apparatus for electroplating, electrolysis or electrophoresis",,5.00,5.00,1,,,,India
+854370 - Other machines and apparatus,,5.00,5.00,1,,,,India
+854390 - Parts,,5.00,5.00,1,,,,India
+854411 -- Of copper,,5.00,5.00,1,,,,India
+854419 -- Other,,5.00,5.00,1,,,,India
+854420 - Co-axial cable and other co-axial electric conductors,,5.00,5.00,1,,,,India
+"854430 - Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",,5.00,5.00,1,,,,India
+854442 -- Fitted with connectors,,5.00,5.00,1,,,,India
+854449 -- Other,,5.00,5.00,1,,,,India
+"854460 - Other electric conductors, for a voltage exceeding 1,000 V",,5.00,5.00,1,,,,India
+854470 - Optical fibre cables,,5.00,5.00,2,,,,India
+854511 -- Of a kind used for furnaces,,5.00,5.00,1,,,,India
+854519 -- Other,,5.00,5.00,1,,,,India
+854520 - Brushes,,5.00,5.00,1,,,,India
+854590 - Other,,5.00,5.00,1,,,,India
+854610 - Of glass,,5.00,5.00,1,,,,India
+854620 - Of ceramics,,5.00,5.00,1,,,,India
+854690 - Other,,5.00,5.00,1,,,,India
+854710 - Insulating fittings of ceramics,,5.00,5.00,1,,,,India
+854720 - Insulating fittings of plastics,,5.00,5.00,1,,,,India
+854790 - Other,,5.00,5.00,1,,,,India
+"854810 -Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators",,5.00,5.00,2,,,,India
+854890 - Other,,5.00,5.00,1,,,,India
+,2015,,5.07,5.07,286,,,,India
+850110 -Motors of an output not exceeding 37.5 W,,5.00,5.00,1,,,,India
+850120 - Universal AC/DC motors of an output exceeding 37.5 W,,5.00,5.00,1,,,,India
+850131 -- Of an output not exceeding 750 W,,5.00,5.00,1,,,,India
+850132 -- Of an output exceeding 750 W but not exceeding 75 kW,,5.00,5.00,1,,,,India
+850133 -- Of an output exceeding 75 kW but not exceeding 375 kW,,5.00,5.00,1,,,,India
+850134 -- Of an output exceeding 375 kW,,5.00,5.00,2,,,,India
+"850140 - Other AC motors, single-phase",,5.00,5.00,1,,,,India
+850151 -- Of an output not exceeding 750 W,,5.00,5.00,1,,,,India
+850152 -- Of an output exceeding 750 W but not exceeding 75 kW,,5.00,5.00,1,,,,India
+850153 -- Of an output exceeding 75 kW,,5.00,5.00,2,,,,India
+850161 -- Of an output not exceeding 75 kVA,,5.00,5.00,1,,,,India
+850162 -- Of an output exceeding 75 kVA but not exceeding 375 kVA,,5.00,5.00,1,,,,India
+850163 -- Of an output exceeding 375 kVA but not exceeding 750 kVA,,5.00,5.00,1,,,,India
+850164 -- Of an output exceeding 750 kVA,,5.00,5.00,1,,,,India
+850211 -- Of an output not exceeding 75 kVA,,5.00,5.00,1,,,,India
+850212 -- Of an output exceeding 75 kVA but not exceeding 375 kVA,,5.00,5.00,1,,,,India
+850213 -- Of an output exceeding 375 kVA,,5.00,5.00,2,,,,India
+850220 - Generating sets with spark-ignition internal combustion piston engines,,5.00,5.00,2,,,,India
+850231 -- Wind-powered,,5.00,5.00,2,,,,India
+850239 -- Other,,5.00,5.00,2,,,,India
+850240 - Electric rotary converters,,5.00,5.00,1,,,,India
+850300 Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02.,,5.00,5.00,2,,,,India
+850410 - Ballasts for discharge lamps or tubes,,5.00,5.00,1,,,,India
+850421 -- Having a power handling capacity not exceeding 650 kVA,,5.00,5.00,1,,,,India
+"850422 -- Having a power handling capacity exceeding 650 kVA but not exceeding 10,000 kVA",,5.00,5.00,2,,,,India
+"850423 -- Having a power handling capacity exceeding 10,000 kVA",,5.00,5.00,1,,,,India
+850431 -- Having a power handling capacity not exceeding 1 kVA,,5.00,5.00,1,,,,India
+850432 -- Having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA,,5.00,5.00,1,,,,India
+850433 -- Having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA,,5.00,5.00,1,,,,India
+850434 -- Having a power handling capacity exceeding 500 kVA,,5.00,5.00,2,,,,India
+850440 - Static converters,,5.00,5.00,1,,,,India
+850450 - Other inductors,,5.00,5.00,1,,,,India
+850490 - Parts,,5.00,5.00,2,,,,India
+850511 -- Of metal,,5.00,5.00,1,,,,India
+850519 -- Other,,5.00,5.00,1,,,,India
+"850520 - Electro-magnetic couplings, clutches and brakes",,5.00,5.00,1,,,,India
+"850590 - Other, including parts",,5.00,5.00,1,,,,India
+850610 -Manganese dioxide,,5.00,5.00,1,,,,India
+850630 -Mercuric oxide,,5.00,5.00,1,,,,India
+850640 - Silver oxide,,5.00,5.00,1,,,,India
+850650 - Lithium,,5.00,5.00,1,,,,India
+850660 - Air-zinc,,5.00,5.00,1,,,,India
+850680 - Other primary cells and primary batteries,,5.00,5.00,1,,,,India
+850690 - Parts,,5.00,5.00,1,,,,India
+"850710 - Lead-acid, of a kind used for starting piston engines",,10.00,10.00,1,,,,India
+850720 - Other lead-acid accumulators,,10.00,10.00,1,,,,India
+850730 - Nickel-cadmium,,10.00,10.00,1,,,,India
+850740 - Nickel-iron,,10.00,10.00,1,,,,India
+850750 - Nickel-metal hydride,,10.00,10.00,1,,,,India
+850760 - Lithium-ion,,10.00,10.00,1,,,,India
+850780 - Other accumulators,,10.00,10.00,1,,,,India
+850790 - Parts,,5.00,5.00,1,,,,India
+"850811 -- Of a power not exceeding 1,500 W and having a dust bag or other receptacle capacity not exceeding 20 l",,5.00,5.00,1,,,,India
+850819 -- Other,,5.00,5.00,1,,,,India
+850860 - Other vacuum cleaners,,5.00,5.00,1,,,,India
+850870 - Parts,,5.00,5.00,1,,,,India
+850940 - Food grinders and mixers; fruit or vegetable juice extractors,,5.00,5.00,1,,,,India
+850980 - Other appliances,,5.00,5.00,1,,,,India
+850990 - Parts,,5.00,5.00,1,,,,India
+851010 - Shavers,,5.00,5.00,1,,,,India
+851020 - Hair clippers,,5.00,5.00,1,,,,India
+851030 - Hair-removing appliances,,5.00,5.00,1,,,,India
+851090 - Parts,,5.00,5.00,1,,,,India
+851110 - Sparking plugs,,5.00,5.00,1,,,,India
+851120 - Ignition magnetos; magneto-dynamos; magnetic flywheels,,5.00,5.00,1,,,,India
+851130 - Distributors; ignition coils,,5.00,5.00,1,,,,India
+851140 - Starter motors and dual purpose starter-generators,,5.00,5.00,1,,,,India
+851150 - Other generators,,5.00,5.00,1,,,,India
+851180 - Other equipment,,5.00,5.00,1,,,,India
+851190 - Parts,,5.00,5.00,1,,,,India
+851210 - Lighting or visual signalling equipment of a kind used on bicycles,,5.00,5.00,1,,,,India
+851220 - Other lighting or visual signalling equipment,,5.00,5.00,1,,,,India
+851230 - Sound signalling equipment,,5.00,5.00,1,,,,India
+"851240 -Windscreen wipers, defrosters and demisters",,5.00,5.00,1,,,,India
+851290 - Parts,,5.00,5.00,1,,,,India
+851310 - Lamps,,5.00,5.00,1,,,,India
+851390 - Parts,,5.00,5.00,1,,,,India
+851410 - Resistance heated furnaces and ovens,,5.00,5.00,1,,,,India
+851420 - Furnaces and ovens functioning by induction or dielectric loss,,5.00,5.00,1,,,,India
+851430 - Other furnaces and ovens,,5.00,5.00,1,,,,India
+851440 - Other equipment for the heat treatment of materials by induction or dielectric loss,,5.00,5.00,1,,,,India
+851490 - Parts,,5.00,5.00,1,,,,India
+851511 -- Soldering irons and guns,,5.00,5.00,1,,,,India
+851519 -- Other,,5.00,5.00,1,,,,India
+851521 -- Fully or partly automatic,,5.00,5.00,1,,,,India
+851529 -- Other,,5.00,5.00,1,,,,India
+851531 -- Fully or partly automatic,,5.00,5.00,1,,,,India
+851539 -- Other,,5.00,5.00,1,,,,India
+851580 - Other machines and apparatus,,5.00,5.00,3,,,,India
+851590 - Parts,,5.00,5.00,3,,,,India
+851610 - Electric instantaneous or storage water heaters and immersion heaters,,5.00,5.00,1,,,,India
+851621 -- Storage heating radiators,,5.00,5.00,1,,,,India
+851629 -- Other,,5.00,5.00,1,,,,India
+851631 -- Hair dryers,,5.00,5.00,1,,,,India
+851632 -- Other hair-dressing apparatus,,5.00,5.00,1,,,,India
+851633 -- Hand-drying apparatus,,5.00,5.00,1,,,,India
+851640 - Electric smoothing irons,,5.00,5.00,1,,,,India
+851650 -Microwave ovens,,5.00,5.00,1,,,,India
+"851660 - Other ovens; cookers, cooking plates, boiling rings, grillers and roasters",,5.00,5.00,1,,,,India
+851671 -- Coffee or tea makers,,5.00,5.00,1,,,,India
+851672 -- Toasters,,5.00,5.00,1,,,,India
+851679 -- Other,,5.00,5.00,1,,,,India
+851680 - Electric heating resistors,,5.00,5.00,1,,,,India
+851690 - Parts,,5.00,5.00,1,,,,India
+851711 -- Line telephone sets with cordless handsets,,5.00,5.00,1,,,,India
+851712 -- Telephones for cellular networks or for other wireless networks,,5.00,5.00,1,,,,India
+851718 -- Other,,5.00,5.00,1,,,,India
+851761 -- Base stations,,5.00,5.00,1,,,,India
+"851762 -- Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus",,5.00,5.00,1,,,,India
+851769 -- Other,,5.00,5.00,1,,,,India
+851770 - Parts,,5.00,5.00,1,,,,India
+851810 -Microphones and stands therefor,,5.00,5.00,1,,,,India
+"851821 -- Single loudspeakers, mounted in their enclosures",,5.00,5.00,1,,,,India
+"851822 -- Multiple loudspeakers, mounted in the same enclosure",,5.00,5.00,1,,,,India
+851829 -- Other,,5.00,5.00,1,,,,India
+"851830 - Headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers",,5.00,5.00,1,,,,India
+851840 - Audio-frequency electric amplifiers,,5.00,5.00,1,,,,India
+851850 - Electric sound amplifier sets,,5.00,5.00,1,,,,India
+851890 - Parts,,5.00,5.00,2,,,,India
+"851920 - Apparatus operated by coins, banknotes, bank cards, tokens or by other means of payment",,5.00,5.00,1,,,,India
+851930 -Turntables (record-decks),,5.00,5.00,1,,,,India
+851950 -Telephone answering machines,,5.00,5.00,1,,,,India
+"851981 -- Using magnetic, optical or semiconductor media",,5.00,5.00,1,,,,India
+851989 -- Other,,5.00,5.00,1,,,,India
+852110 -Magnetic tape-type,,5.00,5.00,1,,,,India
+852190 - Other,,5.00,5.00,1,,,,India
+852210 - Pick-up cartridges,,5.00,5.00,1,,,,India
+852290 - Other,,5.00,5.00,2,,,,India
+852321 -- Cards incorporating a magnetic stripe,,5.00,5.00,1,,,,India
+852329 -- Other,,5.00,5.00,1,,,,India
+852341 -- Unrecorded,,5.00,5.00,1,,,,India
+852349 -- Other,,5.00,5.00,1,,,,India
+852351 -- Solid-state non-volatile storage devices,,5.00,5.00,1,,,,India
+852352 -- «Smart cards»,,5.00,5.00,1,,,,India
+852359 -- Other,,5.00,5.00,1,,,,India
+852380 - Other,,5.00,5.00,1,,,,India
+852550 -Transmission apparatus,,5.00,5.00,1,,,,India
+852560 -Transmission apparatus incorporating reception apparatus,,5.00,5.00,1,,,,India
+"852580 -Television cameras, digital cameras and video camera recorders",,5.00,5.00,1,,,,India
+852610 - Radar apparatus,,5.00,5.00,1,,,,India
+852691 -- Radio navigational aid apparatus,,5.00,5.00,1,,,,India
+852692 -- Radio remote control apparatus,,5.00,5.00,1,,,,India
+852712 -- Pocket-size radio cassette-players,,5.00,5.00,1,,,,India
+852713 -- Other apparatus combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852719 -- Other,,5.00,5.00,1,,,,India
+852721 -- Combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852729 -- Other,,5.00,5.00,1,,,,India
+852791 -- Combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852792 -- Not combined with sound recording or reproducing apparatus but combined with a clock,,5.00,5.00,1,,,,India
+852799 -- Other,,5.00,5.00,1,,,,India
+852841 -- Of a kind solely or principally used in an automatic data processing system of heading 84.71,,0.00,0.00,1,,,,India
+852849 -- Other,,5.00,5.00,1,,,,India
+852851 -- Of a kind solely or principally used in an automatic data processing system of heading 84.71,,0.00,0.00,1,,,,India
+852859 -- Other,,5.00,5.00,1,,,,India
+852861 -- Of a kind solely or principally used in an automatic data processing system of heading 84.71,,0.00,0.00,1,,,,India
+852869 -- Other,,5.00,5.00,1,,,,India
+852871 -- Not designed to incorporate a video display or screen,,5.00,5.00,1,,,,India
+"852872 -- Other, colour",,5.00,5.00,1,,,,India
+"852873 -- Other, monochrome",,5.00,5.00,1,,,,India
+852910 - Aerials and aerial reflectors of all kinds; parts suitable for use therewith,,5.00,5.00,1,,,,India
+852990 - Other,,2.50,2.50,2,,,,India
+853010 - Equipment for railways or tramways,,5.00,5.00,1,,,,India
+853080 - Other equipment,,5.00,5.00,1,,,,India
+853090 - Parts,,5.00,5.00,1,,,,India
+853110 - Burglar or fire alarms and similar apparatus,,5.00,5.00,1,,,,India
+853120 - Indicator panels incorporating liquid crystal devices (LCD) or light emitting diodes (LED),,5.00,5.00,1,,,,India
+853180 - Other apparatus,,5.00,5.00,1,,,,India
+853190 - Parts,,5.00,5.00,1,,,,India
+853210 - Fixed capacitors designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors),,5.00,5.00,1,,,,India
+853221 -- Tantalum,,5.00,5.00,1,,,,India
+853222 -- Aluminium electrolytic,,5.00,5.00,1,,,,India
+"853223 -- Ceramic dielectric, single layer",,5.00,5.00,1,,,,India
+"853224 -- Ceramic dielectric, multilayer",,5.00,5.00,1,,,,India
+853225 -- Dielectric of paper or plastics,,5.00,5.00,1,,,,India
+853229 -- Other,,5.00,5.00,1,,,,India
+853230 -Variable or adjustable (pre-set) capacitors,,5.00,5.00,1,,,,India
+853290 - Parts,,5.00,5.00,1,,,,India
+"853310 - Fixed carbon resistors, composition or film types",,5.00,5.00,1,,,,India
+853321 -- For a power handling capacity not exceeding 20 W,,5.00,5.00,1,,,,India
+853329 -- Other,,5.00,5.00,1,,,,India
+853331 -- For a power handling capacity not exceeding 20 W,,5.00,5.00,1,,,,India
+853339 -- Other,,5.00,5.00,1,,,,India
+"853340 - Other variable resistors, including rheostats and potentiometers",,5.00,5.00,1,,,,India
+853390 - Parts,,5.00,5.00,1,,,,India
+853400 Printed circuits.,,5.00,5.00,1,,,,India
+853510 - Fuses,,5.00,5.00,1,,,,India
+853521 -- For a voltage of less than 72.5 kV,,5.00,5.00,1,,,,India
+853529 -- Other,,5.00,5.00,1,,,,India
+853530 - Isolating switches and make-and-break switches,,5.00,5.00,1,,,,India
+"853540 - Lightning arresters, voltage limiters and surge suppressors",,5.00,5.00,1,,,,India
+853590 - Other,,5.00,5.00,1,,,,India
+853610 - Fuses,,5.00,5.00,1,,,,India
+853620 - Automatic circuit breakers,,5.00,5.00,1,,,,India
+853630 - Other apparatus for protecting electrical circuits,,5.00,5.00,1,,,,India
+853641 -- For a voltage not exceeding 60 V,,5.00,5.00,1,,,,India
+853649 -- Other,,5.00,5.00,1,,,,India
+853650 - Other switches,,5.00,5.00,1,,,,India
+853661 -- Lamp-holders,,5.00,5.00,1,,,,India
+853669 -- Other,,5.00,5.00,1,,,,India
+"853670 - Connectors for optical fibres, optical fibre bundles or cables",,7.50,7.50,2,,,,India
+853690 - Other apparatus,,5.00,5.00,1,,,,India
+"853710 - For a voltage not exceeding 1,000 V",,5.00,5.00,1,,,,India
+"853720 - For a voltage exceeding 1,000 V",,5.00,5.00,1,,,,India
+"853810 - Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 85.37, not equipped with their apparatus",,5.00,5.00,1,,,,India
+853890 - Other,,5.00,5.00,1,,,,India
+853910 - Sealed beam lamp units,,5.00,5.00,1,,,,India
+853921 -- Tungsten halogen,,5.00,5.00,1,,,,India
+"853922 -- Other, of a power not exceeding 200 W and for a voltage exceeding 100 V",,5.00,5.00,1,,,,India
+853929 -- Other,,5.00,5.00,1,,,,India
+"853931 -- Fluorescent, hot cathode",,5.00,5.00,1,,,,India
+853932 -- Mercury or sodium vapour lamps; metal halide lamps,,5.00,5.00,1,,,,India
+853939 -- Other,,5.00,5.00,1,,,,India
+853941 -- Arc-lamps,,5.00,5.00,1,,,,India
+853949 -- Other,,5.00,5.00,1,,,,India
+853990 - Parts,,5.00,5.00,2,,,,India
+854011 -- Colour,,5.00,5.00,1,,,,India
+854012 -- Monochrome,,5.00,5.00,1,,,,India
+854020 -Television camera tubes; image converters and intensifiers; other photo-cathode tubes,,5.00,5.00,1,,,,India
+"854040 - Data/graphic display tubes, monochrome; data/graphic display tubes, colour, with a phosphor dot screen pitch smaller than 0.4 mm",,5.00,5.00,1,,,,India
+854060 - Other cathode-ray tubes,,5.00,5.00,1,,,,India
+854071 -- Magnetrons,,5.00,5.00,1,,,,India
+854079 -- Other,,5.00,5.00,1,,,,India
+854081 -- Receiver or amplifier valves and tubes,,5.00,5.00,1,,,,India
+854089 -- Other,,5.00,5.00,1,,,,India
+854091 -- Of cathode-ray tubes,,5.00,5.00,1,,,,India
+854099 -- Other,,5.00,5.00,1,,,,India
+"854110 - Diodes, other than photosensitive or light emitting diodes",,5.00,5.00,1,,,,India
+854121 -- With a dissipation rate of less than 1 W,,5.00,5.00,1,,,,India
+854129 -- Other,,5.00,5.00,1,,,,India
+"854130 -Thyristors, diacs and triacs, other than photosensitive devices",,5.00,5.00,1,,,,India
+"854140 - Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes",,5.00,5.00,2,,,,India
+854150 - Other semiconductor devices,,5.00,5.00,1,,,,India
+854160 -Mounted piezo-electric crystals,,5.00,5.00,1,,,,India
+854190 - Parts,,5.00,5.00,1,,,,India
+"854231 -- Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",,5.00,5.00,1,,,,India
+854232 -- Memories,,5.00,5.00,1,,,,India
+854233 -- Amplifiers,,5.00,5.00,1,,,,India
+854239 -- Other,,5.00,5.00,1,,,,India
+854290 - Parts,,5.00,5.00,1,,,,India
+854310 - Particle accelerators,,5.00,5.00,1,,,,India
+854320 - Signal generators,,5.00,5.00,1,,,,India
+"854330 -Machines and apparatus for electroplating, electrolysis or electrophoresis",,5.00,5.00,1,,,,India
+854370 - Other machines and apparatus,,5.00,5.00,1,,,,India
+854390 - Parts,,5.00,5.00,1,,,,India
+854411 -- Of copper,,5.00,5.00,1,,,,India
+854419 -- Other,,5.00,5.00,1,,,,India
+854420 - Co-axial cable and other co-axial electric conductors,,5.00,5.00,1,,,,India
+"854430 - Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",,5.00,5.00,1,,,,India
+854442 -- Fitted with connectors,,5.00,5.00,1,,,,India
+854449 -- Other,,5.00,5.00,1,,,,India
+"854460 - Other electric conductors, for a voltage exceeding 1,000 V",,5.00,5.00,1,,,,India
+854470 - Optical fibre cables,,5.00,5.00,2,,,,India
+854511 -- Of a kind used for furnaces,,5.00,5.00,1,,,,India
+854519 -- Other,,5.00,5.00,1,,,,India
+854520 - Brushes,,5.00,5.00,1,,,,India
+854590 - Other,,5.00,5.00,1,,,,India
+854610 - Of glass,,5.00,5.00,1,,,,India
+854620 - Of ceramics,,5.00,5.00,1,,,,India
+854690 - Other,,5.00,5.00,1,,,,India
+854710 - Insulating fittings of ceramics,,5.00,5.00,1,,,,India
+854720 - Insulating fittings of plastics,,5.00,5.00,1,,,,India
+854790 - Other,,5.00,5.00,1,,,,India
+"854810 -Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators",,5.00,5.00,2,,,,India
+854890 - Other,,5.00,5.00,1,,,,India
+,2009,,5.13,5.13,396,,,,India
+850110 - Motors of an output not exceeding 37.5 W,,5.00,5.00,1,,,,India
+850120 - Universal AC/DC motors of an output exceeding 37.5 W,,5.00,5.00,2,,,,India
+850131 -- Of an output not exceeding 750 W,,5.00,5.00,2,,,,India
+850132 -- Of an output exceeding 750 W but not exceeding 75 kW,,5.00,5.00,2,,,,India
+850133 -- Of an output exceeding 75 kW but not exceeding 375 kW,,5.00,5.00,2,,,,India
+850134 -- Of an output exceeding 375 kW,,5.00,5.00,3,,,,India
+"850140 - Other AC motors, single-phase",,5.00,5.00,2,,,,India
+850151 -- Of an output not exceeding 750 W,,5.00,5.00,2,,,,India
+850152 -- Of an output exceeding 750 W but not exceeding 75 kW,,5.00,5.00,2,,,,India
+850153 -- Of an output exceeding 75 kW,,5.00,5.00,3,,,,India
+850161 -- Of an output not exceeding 75 kVA,,5.00,5.00,2,,,,India
+850162 -- Of an output exceeding 75 kVA but not exceeding 375 kVA,,5.00,5.00,2,,,,India
+850163 -- Of an output exceeding 375 kVA but not exceeding 750 kVA,,5.00,5.00,2,,,,India
+850164 -- Of an output exceeding 750 kVA,,5.00,5.00,1,,,,India
+850211 -- Of an output not exceeding 75 kVA,,5.00,5.00,2,,,,India
+850212 -- Of an output exceeding 75 kVA but not exceeding 375 kVA,,5.00,5.00,2,,,,India
+850213 -- Of an output exceeding 375 kVA,,5.00,5.00,3,,,,India
+850220 - Generating sets with spark-ignition internal combustion piston engines,,5.00,5.00,3,,,,India
+850231 -- Wind-powered,,5.00,5.00,3,,,,India
+850239 -- Other,,5.00,5.00,3,,,,India
+850240 - Electric rotary converters,,5.00,5.00,2,,,,India
+850300 Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02.,,5.00,5.00,2,,,,India
+850410 - Ballasts for discharge lamps or tubes,,5.00,5.00,2,,,,India
+850421 -- Having a power handling capacity not exceeding 650 kVA,,5.00,5.00,1,,,,India
+"850422 -- Having a power handling capacity exceeding 650 kVA but not exceeding 10,000 kVA",,5.00,5.00,2,,,,India
+"850423 -- Having a power handling capacity exceeding 10,000 kVA",,5.00,5.00,1,,,,India
+850431 -- Having a power handling capacity not exceeding 1 kVA,,5.00,5.00,2,,,,India
+850432 -- Having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA,,5.00,5.00,2,,,,India
+850433 -- Having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA,,5.00,5.00,2,,,,India
+850434 -- Having a power handling capacity exceeding 500 kVA,,5.00,5.00,2,,,,India
+850440 - Static converters,,5.00,5.00,3,,,,India
+850450 - Other inductors,,5.00,5.00,3,,,,India
+850490 - Parts,,5.00,5.00,2,,,,India
+850511 -- Of metal,,5.00,5.00,1,,,,India
+850519 -- Other,,5.00,5.00,1,,,,India
+"850520 - Electro-magnetic couplings, clutches and brakes",,5.00,5.00,1,,,,India
+850530 - Electro-magnetic lifting heads,,5.00,5.00,1,,,,India
+"850590 - Other, including parts",,5.00,5.00,1,,,,India
+850610 - Manganese dioxide,,5.00,5.00,1,,,,India
+850630 - Mercuric oxide,,5.00,5.00,1,,,,India
+850640 - Silver oxide,,5.00,5.00,1,,,,India
+850650 - Lithium,,5.00,5.00,1,,,,India
+850660 - Air-zinc,,5.00,5.00,1,,,,India
+850680 - Other primary cells and primary batteries,,5.00,5.00,1,,,,India
+850690 - Parts,,5.00,5.00,1,,,,India
+"850710 - Lead- Acid, of a kind used for starting piston engines",,10.00,10.00,2,,,,India
+850720 - Other lead- Acid accumulators,,10.00,10.00,2,,,,India
+850730 - Nickel-cadmium,,10.00,10.00,2,,,,India
+850740 - Nickel-iron,,10.00,10.00,2,,,,India
+850780 - Other accumulators,,10.00,10.00,2,,,,India
+850790 - Parts,,5.00,5.00,2,,,,India
+"850910 - Vacuum cleaners, including dry and wet vacuum cleaners",,5.00,5.00,1,,,,India
+850920 - Floor polishers,,5.00,5.00,1,,,,India
+850930 - Kitchen waste disposers,,5.00,5.00,1,,,,India
+850940 - Food grinders and mixers; fruit or vegetable juice extractors,,5.00,5.00,1,,,,India
+850980 - Other appliances,,5.00,5.00,1,,,,India
+850990 - Parts,,5.00,5.00,1,,,,India
+851010 - Shavers,,5.00,5.00,1,,,,India
+851020 - Hair clippers,,5.00,5.00,1,,,,India
+851030 - Hair-removing appliances,,5.00,5.00,1,,,,India
+851090 - Parts,,5.00,5.00,1,,,,India
+851110 - Sparking plugs,,5.00,5.00,2,,,,India
+851120 - Ignition magnetos; magneto-dynamos; magnetic flywheels,,5.00,5.00,2,,,,India
+851130 - Distributors; ignition coils,,5.00,5.00,2,,,,India
+851140 - Starter motors and dual purpose starter-generators,,5.00,5.00,2,,,,India
+851150 - Other generators,,5.00,5.00,2,,,,India
+851180 - Other equipment,,5.00,5.00,2,,,,India
+851190 - Parts,,5.00,5.00,1,,,,India
+851210 - Lighting or visual signalling equipment of a kind used on bicycles,,5.00,5.00,1,,,,India
+851220 - Other lighting or visual signalling equipment,,5.00,5.00,1,,,,India
+851230 - Sound signalling equipment,,5.00,5.00,1,,,,India
+"851240 - Windscreen wipers, defrosters and demisters",,5.00,5.00,1,,,,India
+851290 - Parts,,5.00,5.00,1,,,,India
+851310 - Lamps,,5.00,5.00,1,,,,India
+851390 - Parts,,5.00,5.00,1,,,,India
+851410 - Resistance heated furnaces and ovens,,5.00,5.00,2,,,,India
+851420 - Furnaces and ovens functioning by induction or dielectric loss,,5.00,5.00,2,,,,India
+851430 - Other furnaces and ovens,,5.00,5.00,2,,,,India
+851440 - Other equipment for the heat treatment of materials by induction or dielectric loss,,5.00,5.00,1,,,,India
+851490 - Parts,,5.00,5.00,2,,,,India
+851511 -- Soldering irons and guns,,5.00,5.00,1,,,,India
+851519 -- Other,,5.00,5.00,1,,,,India
+851521 -- Fully or partly automatic,,5.00,5.00,1,,,,India
+851529 -- Other,,5.00,5.00,1,,,,India
+851531 -- Fully or partly automatic,,5.00,5.00,1,,,,India
+851539 -- Other,,5.00,5.00,1,,,,India
+851580 - Other machines and apparatus,,5.00,5.00,3,,,,India
+851590 - Parts,,5.00,5.00,3,,,,India
+851610 - Electric instantaneous or storage water heaters and immersion heaters,,5.00,5.00,1,,,,India
+851621 -- Storage heating radiators,,5.00,5.00,1,,,,India
+851629 -- Other,,5.00,5.00,1,,,,India
+851631 -- Hair dryers,,5.00,5.00,1,,,,India
+851632 -- Other hair-dressing apparatus,,5.00,5.00,1,,,,India
+851633 -- Hand-drying apparatus,,5.00,5.00,1,,,,India
+851640 - Electric smoothing irons,,5.00,5.00,1,,,,India
+851650 - Microwave ovens,,5.00,5.00,1,,,,India
+"851660 - Other ovens; cookers, cooking plates, boiling rings, grillers and roasters",,5.00,5.00,1,,,,India
+851671 -- Coffee or tea makers,,5.00,5.00,1,,,,India
+851672 -- Toasters,,5.00,5.00,1,,,,India
+851679 -- Other,,5.00,5.00,1,,,,India
+851680 - Electric heating resistors,,5.00,5.00,2,,,,India
+851690 - Parts,,5.00,5.00,1,,,,India
+851711 -- Line tephone sets with cordless handsets,,5.00,5.00,1,,,,India
+851719 -- Other,,5.00,5.00,1,,,,India
+851721 -- Facsimile machines,,5.00,5.00,1,,,,India
+851722 -- Teleprinters,,5.00,5.00,1,,,,India
+851730 - Telephonic or telegraphic switching apparatus,,5.00,5.00,1,,,,India
+"851750 - Other apparatus, for carrier-current line systems or for digital line systems",,5.00,5.00,1,,,,India
+851780 - Other apparatus,,5.00,5.00,1,,,,India
+851790 - Parts,,5.00,5.00,1,,,,India
+851810 - Microphones and stands therefor,,5.00,5.00,3,,,,India
+"851821 -- Single loudspeakers, mounted in their enclosures",,5.00,5.00,2,,,,India
+"851822 -- Multiple loudspeakers, mounted in the same enclosure",,5.00,5.00,2,,,,India
+851829 -- Other,,5.00,5.00,3,,,,India
+"851830 - Headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers",,5.00,5.00,3,,,,India
+851840 - Audio-frequency electric amplifiers,,5.00,5.00,2,,,,India
+851850 - Electric sound amplifier sets,,5.00,5.00,2,,,,India
+851890 - Parts,,5.00,5.00,2,,,,India
+851910 - Coin- or disc-operated record-players,,5.00,5.00,1,,,,India
+851921 -- Without loudspeaker,,5.00,5.00,1,,,,India
+851929 -- Other,,5.00,5.00,1,,,,India
+851931 -- With automatic record changing mechanism,,5.00,5.00,1,,,,India
+851939 -- Other,,5.00,5.00,1,,,,India
+851940 - Transcribing machines,,5.00,5.00,1,,,,India
+851992 -- Pocket-size cassette-players,,5.00,5.00,1,,,,India
+"851993 -- Other, cassette-type",,5.00,5.00,1,,,,India
+851999 -- Other,,5.00,5.00,2,,,,India
+852010 - Dictating machines not capable of operating without an external source of power,,5.00,5.00,1,,,,India
+852020 - Telephone answering machines,,5.00,5.00,1,,,,India
+852032 -- Digital audio type,,5.00,5.00,1,,,,India
+"852033 -- Other, cassette-type",,5.00,5.00,1,,,,India
+852039 -- Other,,5.00,5.00,1,,,,India
+852090 - Other,,5.00,5.00,3,,,,India
+852110 - Magnetic tape-type,,5.00,5.00,2,,,,India
+852190 - Other,,5.00,5.00,1,,,,India
+852210 - Pick-up cartridges,,5.00,5.00,1,,,,India
+852290 - Other,,5.00,5.00,3,,,,India
+852311 -- Of a width not exceeding 4 mm,,5.00,5.00,1,,,,India
+852312 -- Of a width exceeding 4 mm but not exceeding 6.5 mm,,5.00,5.00,1,,,,India
+852313 -- Of a width exceeding 6.5 mm,,5.00,5.00,1,,,,India
+852320 - Magnetic discs,,5.00,5.00,1,,,,India
+852330 - Cards incorporating a magnetic stripe,,5.00,5.00,1,,,,India
+852390 - Other,,5.00,5.00,1,,,,India
+852410 - Gramophone records,,5.00,5.00,1,,,,India
+852431 -- For reproducing phenomena other than sound or image,,5.00,5.00,1,,,,India
+852432 -- For reproducing sound only,,5.00,5.00,1,,,,India
+852439 -- Other,,5.00,5.00,2,,,,India
+852440 - Magnetic tapes for reproducing phenomena other than sound or image,,5.00,5.00,1,,,,India
+852451 -- Of a width not exceeding 4 mm,,5.00,5.00,1,,,,India
+852452 -- Of a width exceeding 4 mm but not exceeding 6.5 mm,,5.00,5.00,1,,,,India
+852453 -- Of a width exceeding 6.5 mm,,5.00,5.00,1,,,,India
+852460 - Cards incorporating a magnetic stripe,,5.00,5.00,1,,,,India
+852491 -- For reproducing phenomena other than sound or image,,5.00,5.00,1,,,,India
+852499 -- Other,,5.00,5.00,2,,,,India
+852510 - Transmission apparatus,,5.00,5.00,3,,,,India
+852520 - Transmission apparatus incorporating reception apparatus,,5.00,5.00,1,,,,India
+852530 - Television cameras,,5.00,5.00,1,,,,India
+852540 - Still image video cameras and other video camera recorders; digital cameras,,5.00,5.00,2,,,,India
+852610 - Radar apparatus,,5.00,5.00,2,,,,India
+852691 -- Radio navigational aid apparatus,,5.00,5.00,2,,,,India
+852692 -- Radio remote control apparatus,,5.00,5.00,2,,,,India
+852712 -- Pocket-size radio cassette-players,,5.00,5.00,1,,,,India
+852713 -- Other apparatus combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852719 -- Other,,5.00,5.00,1,,,,India
+852721 -- Combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852729 -- Other,,5.00,5.00,1,,,,India
+852731 -- Combined with sound recording or reproducing apparatus,,5.00,5.00,1,,,,India
+852732 -- Not combined with sound recording or reproducing apparatus but combined with a clock,,5.00,5.00,1,,,,India
+852739 -- Other,,5.00,5.00,1,,,,India
+852790 - Other apparatus,,5.00,5.00,3,,,,India
+852812 -- Colour,,5.00,5.00,1,,,,India
+852813 -- Black and white or other monochrome,,5.00,5.00,1,,,,India
+852821 -- Colour,,5.00,5.00,1,,,,India
+852822 -- Black and white or other monochrome,,5.00,5.00,1,,,,India
+852830 - Video projectors,,5.00,5.00,1,,,,India
+852910 - Aerials and aerial reflectors of all kinds; parts suitable for use therewith,,5.00,5.00,3,,,,India
+852990 - Other,,5.00,5.00,3,,,,India
+853010 - Equipment for railways or tramways,,5.00,5.00,1,,,,India
+853080 - Other equipment,,5.00,5.00,1,,,,India
+853090 - Parts,,5.00,5.00,1,,,,India
+853110 - Burglar or fire alarms and similar apparatus,,5.00,5.00,2,,,,India
+853120 - Indicator panels incorporating liquid crystal devices (LCD) or light emitting diodes (LED),,5.00,5.00,1,,,,India
+853180 - Other apparatus,,5.00,5.00,2,,,,India
+853190 - Parts,,5.00,5.00,2,,,,India
+853210 - Fixed capacitors designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors),,5.00,5.00,1,,,,India
+853221 -- Tantalum,,5.00,5.00,1,,,,India
+853222 -- Aluminum electrolytic,,5.00,5.00,1,,,,India
+"853223 -- Ceramic dielectric, single layer",,5.00,5.00,1,,,,India
+"853224 -- Ceramic dielectric, multilayer",,5.00,5.00,1,,,,India
+853225 -- Dielectric of paper or plastics,,5.00,5.00,1,,,,India
+853229 -- Other,,5.00,5.00,1,,,,India
+853230 - Variable or adjustable (pre-set) capacitors,,5.00,5.00,1,,,,India
+853290 - Parts,,5.00,5.00,1,,,,India
+"853310 - Fixed carbon resistors, composition or film types",,5.00,5.00,1,,,,India
+853321 -- For a power handling capacity not exceeding 20 W,,5.00,5.00,1,,,,India
+853329 -- Other,,5.00,5.00,1,,,,India
+853331 -- For a power handling capacity not exceeding 20 W,,5.00,5.00,1,,,,India
+853339 -- Other,,5.00,5.00,1,,,,India
+"853340 - Other variable resistors, including rheostats and potentiometers",,5.00,5.00,1,,,,India
+853390 - Parts,,5.00,5.00,1,,,,India
+853400 Printed circuits.,,5.00,5.00,1,,,,India
+853510 - Fuses,,5.00,5.00,1,,,,India
+853521 -- For a voltage of less than 72.5 kV,,5.00,5.00,1,,,,India
+853529 -- Other,,5.00,5.00,1,,,,India
+853530 - Isolating switches and make-and-break switches,,5.00,5.00,1,,,,India
+"853540 - Lightning arresters, voltage limiters and surge suppressors",,5.00,5.00,1,,,,India
+853590 - Other,,5.00,5.00,1,,,,India
+853610 - Fuses,,5.00,5.00,1,,,,India
+853620 - Automatic circuit breakers,,5.00,5.00,1,,,,India
+853630 - Other apparatus for protecting electric circuits,,5.00,5.00,1,,,,India
+853641 -- For a voltage not exceeding 60 V,,5.00,5.00,1,,,,India
+853649 -- Other,,5.00,5.00,1,,,,India
+853650 - Other switches,,5.00,5.00,2,,,,India
+853661 -- Lamp-holders,,5.00,5.00,1,,,,India
+853669 -- Other,,5.00,5.00,2,,,,India
+853690 - Other apparatus,,5.00,5.00,2,,,,India
+"853710 - For a voltage not exceeding 1,000 V",,5.00,5.00,1,,,,India
+"853720 - For a voltage exceeding 1,000 V",,5.00,5.00,1,,,,India
+"853810 - Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 85.37, not equipped with their apparatus",,5.00,5.00,1,,,,India
+853890 - Other,,5.00,5.00,1,,,,India
+853910 - Sealed beam lamp units,,5.00,5.00,2,,,,India
+853921 -- Tungsten halogen,,5.00,5.00,1,,,,India
+"853922 -- Other, of a power not exceeding 200 W and for a voltage exceeding 100 V",,5.00,5.00,1,,,,India
+853929 -- Other,,5.00,5.00,1,,,,India
+"853931 -- Fluorescent, hot cathode",,5.00,5.00,1,,,,India
+853932 -- Mercury or sodium vapour lamps; metal halide lamps,,5.00,5.00,1,,,,India
+853939 -- Other,,5.00,5.00,1,,,,India
+853941 -- Arc-lamps,,5.00,5.00,1,,,,India
+853949 -- Other,,5.00,5.00,1,,,,India
+853990 - Parts,,5.00,5.00,2,,,,India
+854011 -- Colour,,5.00,5.00,1,,,,India
+854012 -- Black and white or other monochrome,,5.00,5.00,1,,,,India
+854020 - Television camera tubes; image converters and intensifiers; other photo-cathode tubes,,5.00,5.00,1,,,,India
+"854040 - Data/graphic display tubes, colour, with a phosphor dot screen pitch smaller than 0.4 mm",,5.00,5.00,1,,,,India
+"854050 - Data/graphic display tubes, black and white or other monochrome",,5.00,5.00,1,,,,India
+854060 - Other cathode-ray tubes,,5.00,5.00,1,,,,India
+854071 -- Magnetrons,,5.00,5.00,1,,,,India
+854072 -- Klystrons,,5.00,5.00,1,,,,India
+854079 -- Other,,5.00,5.00,1,,,,India
+854081 -- Receiver or amplifier valves and tubes,,5.00,5.00,1,,,,India
+854089 -- Other,,5.00,5.00,1,,,,India
+854091 -- Of cathode-ray tubes,,5.00,5.00,1,,,,India
+854099 -- Other,,5.00,5.00,1,,,,India
+"854110 - Diodes, other than photosensitive or light emitting diodes",,5.00,5.00,1,,,,India
+854121 -- With a dissipation rate of less than 1 W,,5.00,5.00,1,,,,India
+854129 -- Other,,5.00,5.00,1,,,,India
+"854130 - Thyristors, diacs and triacs, other than photosensitive devices",,5.00,5.00,1,,,,India
+"854140 - Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes",,5.00,5.00,2,,,,India
+854150 - Other semiconductor devices,,5.00,5.00,1,,,,India
+854160 - Mounted piezo-electric crystals,,5.00,5.00,1,,,,India
+854190 - Parts,,5.00,5.00,1,,,,India
+"854210 - Cards incorporating an electronic integrated circuit (""smart"" cards)",,5.00,5.00,1,,,,India
+854221 -- Digital,,5.00,5.00,1,,,,India
+854229 -- Other,,5.00,5.00,1,,,,India
+854260 - Hybrid integrated circuits,,5.00,5.00,1,,,,India
+854270 - Electronic microassemblies,,5.00,5.00,1,,,,India
+854290 - Parts,,5.00,5.00,1,,,,India
+854311 -- Ion implanters for doping semiconductor materials,,5.00,5.00,1,,,,India
+854319 -- Other,,5.00,5.00,1,,,,India
+854320 - Signal generators,,5.00,5.00,1,,,,India
+"854330 - Machines and apparatus for electroplating, electrolysis or electrophoresis",,5.00,5.00,2,,,,India
+854340 - Electric fence energisers,,5.00,5.00,1,,,,India
+854381 -- Proximity cards and tags,,5.00,5.00,1,,,,India
+854389 -- Other,,5.00,5.00,3,,,,India
+854390 - Parts,,5.00,5.00,3,,,,India
+854411 -- Of copper,,5.00,5.00,1,,,,India
+854419 -- Other,,5.00,5.00,1,,,,India
+854420 - Co- Axial cable and other co- Axial electric conductors,,5.00,5.00,1,,,,India
+"854430 - Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",,5.00,5.00,2,,,,India
+854441 -- Fitted with connectors,,5.00,5.00,2,,,,India
+854449 -- Other,,5.00,5.00,2,,,,India
+854451 -- Fitted with connectors,,5.00,5.00,2,,,,India
+854459 -- Other,,5.00,5.00,1,,,,India
+"854460 - Other electric conductors, for a voltage exceeding 1,000 V",,5.00,5.00,1,,,,India
+854470 - Optical fibre cables,,5.00,5.00,2,,,,India
+854511 -- Of a kind used for furnaces,,5.00,5.00,1,,,,India
+854519 -- Other,,5.00,5.00,1,,,,India
+854520 - Brushes,,5.00,5.00,1,,,,India
+854590 - Other,,5.00,5.00,1,,,,India
+854610 - Of glass,,5.00,5.00,1,,,,India
+854620 - Of ceramics,,5.00,5.00,1,,,,India
+854690 - Other,,5.00,5.00,1,,,,India
+854710 - Insulating fittings of ceramics,,5.00,5.00,1,,,,India
+854720 - Insulating fittings of plastics,,5.00,5.00,1,,,,India
+854790 - Other,,5.00,5.00,1,,,,India
+"854810 - Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators",,5.00,5.00,2,,,,India
+854890 - Other,,5.00,5.00,1,,,,India
